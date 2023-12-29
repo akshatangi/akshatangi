@@ -62,7 +62,7 @@
 ###
 
 <div align="left">
-  <a href="www.instagram.com/akshatangi/" target="_blank">
+  <a href="www.instagram.com/akshatangi/" target="_www.instagram.com/akshatangi">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:akshatangi25@gmail.com" target="_blank">
