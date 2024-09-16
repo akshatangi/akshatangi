@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m in my 1st year in BTech CS course in UPES, Dehradun.<br>- 🌱 I’m currently learning  every skill I can.<br>- 💬 My hobbies are music, photography<br>- ⚡ Fun fact about me :  "I definitely know more about shoes and cars than you xD"<br>- 📄 My experiences www.linkedin.com/in/akshatangi</p>
+<p align="left">- 🔭 I’m in my 2st year in BTech CS course in UPES, Dehradun.<br>- 🌱 I’m currently learning  every skill I can.<br>- 💬 My hobbies are music, photography<br>- ⚡ Fun fact about me :  "I definitely know more about shoes and cars than you xD"<br>- 📄 My experiences www.linkedin.com/in/akshatangi</p>
 
 ###
 
